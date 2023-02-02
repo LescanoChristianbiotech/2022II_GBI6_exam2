@@ -19,7 +19,7 @@
  <td>Procesador</td>
  <td>Ram</td>
  <tr>
-  <td>HP</td>
+  <td>DELL</td>
  <td>7ma</td>
  <td>Intelcore</td>
  <td>8</td>
